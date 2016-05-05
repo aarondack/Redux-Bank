@@ -11,5 +11,6 @@ Banking application that has these features:
 Clone or fork the repo.
 
 * `npm install` to install dependencies
+* During the `npm install` there will be a pause for semantic ui options, you should be able to enter through all of them, once the build is finished `cd` into the semantic folder and run `gulp build`
 * `npm run dev` to load up the app
 * `npm test` to run unit tests
